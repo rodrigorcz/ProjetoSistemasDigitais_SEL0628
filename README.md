@@ -16,8 +16,7 @@ Rodrigo Rodrigues (13695362) <br>
 O projeto consiste no desenvolvimento de um Decodificador BCD para Display de 7 Segmentos, com a opção de configurar a saída para um display de ânodo comum ou cátodo comum. Serão apresentados a Tabela Verdade, os Mapas de Karnaugh, as Expressões Booleanas e o Circuito Lógico. <br>
 O esquemático (RTL) será implementado utilizando a linguagem de descrição de hardware (HDL) Verilog, com quatro técnicas distintas: Primitivas ou Rede de Ligações, Declarações Concorrentes com Operadores Lógicos, Declarações Concorrentes com Operador Ternário e Declaração Procedural ou Comportamental. <br>
 
-Para a implementação desse decodificador, foi construido a seguinte tabela verdade, considerando as seguintes configurações:
-
+Para a implementação desse decodificador, foi construido a seguinte tabela verdade:
 
 <details>
     <summary> Tabela Verdade</summary>
@@ -63,8 +62,17 @@ Para a implementação desse decodificador, foi construido a seguinte tabela ver
 
 ### Mapas de Veitch-Karnaugh
 
+A partir da tabela verdade foi possível desenvolver os mapas de Veitch-Karnaugh: 
 ![mapasvk](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/assets/85594694/b910e0ae-cfaa-44c8-95ca-ce8745de2ca5)
 
+Com isso, verificou-se as seguintes expressões booleana de saída:
+a = <br>
+b = <br>
+c = <br>
+d = <br>
+e = <br>
+f = <br>
+g = <br>
 ---
 ### Circuito Lógico
 
