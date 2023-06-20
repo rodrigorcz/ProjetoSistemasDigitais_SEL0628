@@ -59,3 +59,8 @@ Rodrigo Rodrigues (13695362) <br>
 ## Circuito Lógico
 
 ![logic_circuit](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/assets/85594694/d7e52f36-421f-4c35-a5c1-b605734320d7)
+
+---
+## Modularização do circuito lógico (DEMUX)
+
+![demux_logiccircuit](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/assets/85594694/ffbf4669-d78d-4f67-9a57-8856e29a5470)
