@@ -69,7 +69,4 @@ Rodrigo Rodrigues (13695362) <br>
 ![demux_logiccircuit](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/assets/85594694/ffbf4669-d78d-4f67-9a57-8856e29a5470)
 
 ---
-## Modularização em blocos
-
-![circuito_modularizado02](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/assets/85594694/e8795103-9817-4031-a153-05b1d9e531b8)
 
