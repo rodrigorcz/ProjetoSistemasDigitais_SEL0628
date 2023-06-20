@@ -1,9 +1,12 @@
 # ProjetoSistemasDigitais_SEL0628
 Repositório utilizado para a hospedagem dos arquivos e codigos utilizados no projeto final da disciplina de Sistemas Digitais (SEL0628) cursada no primeiro semestre de 2023.
 
+---
 ## Parte 1
+---
+<details>
+    <summary> Tabela Verdade</summary>
 
-<h5>Tabela Verdade</h5>
 
 | bit3 | bit2 | bit1 | bit0 | a | b | c | d | e | f | g |
 |------|------|------|------|---|---|---|---|---|---|---|
@@ -40,4 +43,4 @@ Repositório utilizado para a hospedagem dos arquivos e codigos utilizados no pr
 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 0 |
 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 1 | 1 | 1 |
 
-
+</details>
