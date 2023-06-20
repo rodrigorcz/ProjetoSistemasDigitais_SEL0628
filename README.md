@@ -66,6 +66,7 @@ A partir da tabela verdade foi possível desenvolver os mapas de Veitch-Karnaugh
 ![mapasvk](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/assets/85594694/b910e0ae-cfaa-44c8-95ca-ce8745de2ca5)
 
 Com isso, verificou-se as seguintes expressões booleana de saída:
+<br>
 a = <br>
 b = <br>
 c = <br>
@@ -73,6 +74,7 @@ d = <br>
 e = <br>
 f = <br>
 g = <br>
+
 ---
 ### Circuito Lógico
 
