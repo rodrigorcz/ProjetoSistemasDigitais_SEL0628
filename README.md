@@ -4,12 +4,12 @@ Repositório utilizado para a hospedagem dos arquivos e codigos utilizados no pr
 ---
 # Participantes
 
-André Jacob (13864673)
-Gabriela Passos de Andrade (12625142)
-Henrique de Oliveira Araujo (13863950)
-Marcus Vinicius da Silva (13833150)
-Rafael Cunha Bejes Learth (13676367)
-Rodrigo Rodrigues (13695362)
+André Jacob (13864673) <br>
+Gabriela Passos de Andrade (12625142) <br>
+Henrique de Oliveira Araujo (13863950) <br>
+Marcus Vinicius da Silva (13833150) <br>
+Rafael Cunha Bejes Learth (13676367) <br>
+Rodrigo Rodrigues (13695362) <br>
 
 ---
 ## Parte 1
