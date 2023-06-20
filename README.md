@@ -52,15 +52,12 @@ Rodrigo Rodrigues (13695362) <br>
 | 1    | 1    | 1    | 1    | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 0 |
 | 1    | 1    | 1    | 1    | 1 | 1 | 0 | 0 | 0 | 1 | 1 | 1 |
 
+    <summary> Mapas K</summary>
+
+![mapasvk](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/assets/85594694/3d8c90e9-363c-4a2d-9a26-37f351021166)
+
+
 </details>
-
----
-
-## Mapas de Veitch-Karnaugh
-
-![mapasvk](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/assets/85594694/86029582-5d32-4ec6-982a-dea37a769acc)
-
-
 ---
 ## Circuito Lógico
 
