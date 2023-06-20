@@ -11,7 +11,6 @@ Marcus Vinicius da Silva (13833150)
 Rafael Cunha Bejes Learth (13676367)
 Rodrigo Rodrigues (13695362)
 
-
 ---
 ## Parte 1
 
