@@ -3,7 +3,6 @@ Repositório utilizado para a hospedagem dos arquivos e codigos utilizados no pr
 
 ---
 ## Parte 1
----
 <details>
     <summary> Tabela Verdade</summary>
 
