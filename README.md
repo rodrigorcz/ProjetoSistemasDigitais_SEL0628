@@ -52,6 +52,10 @@ Rodrigo Rodrigues (13695362) <br>
 | 1    | 1    | 1    | 1    | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 0 |
 | 1    | 1    | 1    | 1    | 1 | 1 | 0 | 0 | 0 | 1 | 1 | 1 |
 
+
+![mapasvk](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/assets/85594694/9950a8c0-31d2-479d-8638-0695bf58cf94)
+
+
 </details>
 
 ---
