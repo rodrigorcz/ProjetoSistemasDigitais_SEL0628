@@ -69,7 +69,8 @@ A partir da tabela verdade foi possível desenvolver os mapas de Veitch-Karnaugh
 ![mapasvk](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/assets/85594694/b910e0ae-cfaa-44c8-95ca-ce8745de2ca5)
 
 Com isso, verificou-se as seguintes expressões booleana de saída:
-<br>
+<br><br>
+
 a = (/bit2*/bit1/bit0) + (/bit3 bit0 /T) + (/bit3 bit1 T) + (/bit3 bit2 bit0) + (bit2 bit0 /T) + (/bit3 bit2 bit1) + (bit2 bit1 T) + (bit3 /bit2 /bit1) + (bit3 /bit2 /bit0) + (bit3 /bit1 /bit0)
 <br>
 
