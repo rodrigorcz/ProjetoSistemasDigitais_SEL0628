@@ -69,28 +69,22 @@ A partir da tabela verdade foi possível desenvolver os mapas de Veitch-Karnaugh
 ![mapasvk](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/assets/85594694/b910e0ae-cfaa-44c8-95ca-ce8745de2ca5)
 
 Com isso, verificou-se as seguintes expressões booleana de saída:
-<br><br>
-
-a = (/bit2*/bit1/bit0) + (/bit3 bit0 /T) + (/bit3 bit1 T) + (/bit3 bit2 bit0) + (bit2 bit0 /T) + (/bit3 bit2 bit1) + (bit2 bit1 T) + (bit3 /bit2 /bit1) + (bit3 /bit2 /bit0) + (bit3 /bit1 /bit0)
 <br>
+``` bash
+a = (/bit2 /bit1 /bit0) + (/bit3 bit0 /T) + (/bit3 bit1 T) + (/bit3 bit2 bit0) + (bit2 bit0 /T) + (/bit3 bit2 bit1) + (bit2 bit1 T) + (bit3 /bit2 /bit1) + (bit3 /bit2 /bit0) + (bit3 /bit1 /bit0)
 
 b = (/bit3 /bit2 T) + (/bit3 /bit1 /bit0 T) + (/bit2 /bit0 T) + (/bit3 bit1 /bit0 /T) + (bit2 bit0 /T) + (/bit3 bit2 bit1 bit0) + (bit3 /bit2 /bit1 /bit0) + (bit3 /bit1 bit0 T) + (bit3 bit1 bit0 /T) + (bit3 bit2 /T)
-<br>
 
 c = (/bit2 /bit1 T) + (/bit2 bit0 T) + (/bit1 bit0 T) + (bit1 /bit0 /T) + (/bit3 bit2) + (bit3 /bit2) + (bit3 /bit0 /T) + (bit3 bit1 /T)
-<br>
 
 d = (/bit2 /bit1 /bit0 T) + (/bit2 /bit1 bit0 /T) + (/bit3 /bit2 bit1) + (/bit2 bit1 /bit0 /T) + (/bit2 bit1 bit0 T) + (bit2 /bit1 /bit0 /T) + (bit2 /bit1 bit0 T) + (bit2 bit1 /bit0 T) + (bit2 bit1 bit0 /T) + (bit3 bit2 /bit1)
-<br>
 
 e = (/bit3 /bit2 /bit0) + (/bit3 /bit1 /T) + (/bit3 bit0 /T) + (/bit1 bit0 /T) + (bit1 /bit0 T) + (bit3 /bit0 T) + (bit3 bit1 T) + (bit3 bit2 bit0)
-<br>
 
 f = (/bit3 /bit1 /bit0) + (/bit1 /bit0 T) + (bit0 /T) + (/bit3 bit2 /bit1) + (/bit3 bit2 /bit0) + (bit3 /bit2 bit0) + (bit3 /bit2 bit1) + (bit3 bit1 T)
-<br>
 
 g = (/bit3 /bit1 /T) + (/bit3 bit1 /bit0) + (/bit2 bit1 T) + (/bit3 bit2 /bit1) + (/bit3 bit2 /T) + (bit2 /bit1 /bit0 /T) + (bit3 /bit2 T) + (bit3 /bit2 bit0) + (bit3 bit0 T) + (bit3 /bit2 bit1) + (bit3 bit1 T)
-<br>
+```
 
 ---
 ### Circuito Lógico
