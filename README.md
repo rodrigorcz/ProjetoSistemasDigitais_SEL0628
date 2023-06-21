@@ -60,6 +60,9 @@ Para a implementação desse decodificador, foi construido a seguinte tabela ver
 
 ---
 
+
+
+
 ### Mapas de Veitch-Karnaugh
 
 A partir da tabela verdade foi possível desenvolver os mapas de Veitch-Karnaugh: 
@@ -67,13 +70,26 @@ A partir da tabela verdade foi possível desenvolver os mapas de Veitch-Karnaugh
 
 Com isso, verificou-se as seguintes expressões booleana de saída:
 <br>
-a = <br>
-b = <br>
-c = <br>
-d = <br>
-e = <br>
-f = <br>
-g = <br>
+a = (/bit2*/bit1/bit0) + (/bit3 bit0 /T) + (/bit3 bit1 T) + (/bit3 bit2 bit0) + (bit2 bit0 /T) + (/bit3 bit2 bit1) + (bit2 bit1 T) + (bit3 /bit2 /bit1) + (bit3 /bit2 /bit0) + (bit3 /bit1 /bit0)
+<br>
+
+b = (/bit3 /bit2 T) + (/bit3 /bit1 /bit0 T) + (/bit2 /bit0 T) + (/bit3 bit1 /bit0 /T) + (bit2 bit0 /T) + (/bit3 bit2 bit1 bit0) + (bit3 /bit2 /bit1 /bit0) + (bit3 /bit1 bit0 T) + (bit3 bit1 bit0 /T) + (bit3 bit2 /T)
+<br>
+
+c = (/bit2 /bit1 T) + (/bit2 bit0 T) + (/bit1 bit0 T) + (bit1 /bit0 /T) + (/bit3 bit2) + (bit3 /bit2) + (bit3 /bit0 /T) + (bit3 bit1 /T)
+<br>
+
+d = (/bit2 /bit1 /bit0 T) + (/bit2 /bit1 bit0 /T) + (/bit3 /bit2 bit1) + (/bit2 bit1 /bit0 /T) + (/bit2 bit1 bit0 T) + (bit2 /bit1 /bit0 /T) + (bit2 /bit1 bit0 T) + (bit2 bit1 /bit0 T) + (bit2 bit1 bit0 /T) + (bit3 bit2 /bit1)
+<br>
+
+e = (/bit3 /bit2 /bit0) + (/bit3 /bit1 /T) + (/bit3 bit0 /T) + (/bit1 bit0 /T) + (bit1 /bit0 T) + (bit3 /bit0 T) + (bit3 bit1 T) + (bit3 bit2 bit0)
+<br>
+
+f = (/bit3 /bit1 /bit0) + (/bit1 /bit0 T) + (bit0 /T) + (/bit3 bit2 /bit1) + (/bit3 bit2 /bit0) + (bit3 /bit2 bit0) + (bit3 /bit2 bit1) + (bit3 bit1 T)
+<br>
+
+g = (/bit3 /bit1 /T) + (/bit3 bit1 /bit0) + (/bit2 bit1 T) + (/bit3 bit2 /bit1) + (/bit3 bit2 /T) + (bit2 /bit1 /bit0 /T) + (bit3 /bit2 T) + (bit3 /bit2 bit0) + (bit3 bit0 T) + (bit3 /bit2 bit1) + (bit3 bit1 T)
+<br>
 
 ---
 ### Circuito Lógico
