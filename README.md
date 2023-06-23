@@ -4,7 +4,7 @@ Repositório utilizado para a hospedagem dos arquivos e codigos utilizados no pr
 
 <hr>
 
-<h1># Participantes</h1>
+<h1>Participantes</h1>
 
 André Jacob (13864673) <br>
 Gabriela Passos de Andrade (12625142) <br>
@@ -21,7 +21,7 @@ O esquemático (RTL) será implementado utilizando a linguagem de descrição de
 
 O arquivo com as especificações citadas se encontram em : <br>
 
-<a href=“https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/tree/main/Parte%201”>Relatório da Parte 1</a>
+<a href=“https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/tree/main/Parte%201”> Relatório da Parte 1 </a>
 
 <hr>
 
