@@ -21,7 +21,7 @@ O esquemático (RTL) será implementado utilizando a linguagem de descrição de
 
 O arquivo com as especificações citadas se encontram em : <br>
 
-[Relatório da Parte 1](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/Parte_1)
+[Relatório da Parte 1](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/tree/main/Parte_1)
 
 <hr>
 
