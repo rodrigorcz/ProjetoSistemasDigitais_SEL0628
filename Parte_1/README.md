@@ -1,5 +1,4 @@
-# Parte 1
-O projeto consiste no desenvolvimento de um Decodificador BCD para Display de 7 Segmentos, com a opção de configurar a saída para um display de ânodo comum ou cátodo comum. Serão apresentados a Tabela Verdade, os Mapas de Karnaugh, as Expressões Booleanas e o Circuito Lógico. <br> <br>
+
 O esquemático (RTL) será implementado utilizando a linguagem de descrição de hardware (HDL) Verilog, com quatro técnicas distintas: Primitivas ou Rede de Ligações, Declarações Concorrentes com Operadores Lógicos, Declarações Concorrentes com Operador Ternário e Declaração Procedural ou Comportamental. <br>
 
 Para a implementação desse decodificador, foi construido a seguinte tabela verdade:
