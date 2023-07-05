@@ -26,3 +26,17 @@ O arquivo com as especificações citadas se encontra em : <br>
 <hr>
 
 <h1>Parte 2</h1>
+
+[Relatório da Parte 2](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/tree/main/Parte_2)
+
+<hr>
+
+<h1>Parte 3</h1>
+
+[Relatório da Parte 3](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/tree/main/Parte_3)
+
+<hr>
+
+<h1>Parte 4</h1>
+
+[Relatório da Parte 4](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/tree/main/Parte_4)
