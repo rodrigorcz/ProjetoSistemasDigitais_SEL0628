@@ -26,7 +26,8 @@ O arquivo mais detalhado, com as especificações citadas se encontra em : <br>
 <hr>
 
 <h1>Parte 2</h1>
-A segunda parte do trabalho consiste no desenvolvimento didático de três contadores compostos pelas estruturas clássicas (síncrona ou assíncrona) de flip-flops tipo D encadeados. Nesse sentido, cada um possui um algoritmo único, a saber: implementação modular para contagem síncrona e para assíncrona, implementação unitária com incremento e declaração procedural. Assim, será apresentado o Diagrama de Estados, a Tabela de Transição de Estados, os Mapas de Karnaugh, as Expressões Booleanas e o Circuito Lógico implementado para a criação de um contador síncrono crescente de década (BCD).<br> <br>
+A segunda parte do trabalho consiste no desenvolvimento didático de três contadores compostos pelas estruturas clássicas (síncrona ou assíncrona) de flip-flops tipo D encadeados. Nesse sentido, cada um possui um algoritmo único, a saber: implementação modular para contagem síncrona e para assíncrona, implementação unitária com incremento e declaração procedural. <br>
+Assim, será apresentado o Diagrama de Estados, a Tabela de Transição de Estados, os Mapas de Karnaugh, as Expressões Booleanas e o Circuito Lógico implementado para a criação de um contador síncrono crescente de década (BCD).<br> <br>
 
 O esquemático (RTL) será implementado utilizando a linguagem de descrição de hardware (HDL) Verilog para implementar os seguintes contadores binários crescentes parametrizáveis de 'width' bits com 'enb', 'rst_s', 'cnt_max' e 'ck':<br> <br>
 -Assíncrono, utilizando o Flip-flop Tipo-D descrito anteriormente, com generate e Rede de Ligações<br>
