@@ -35,6 +35,7 @@ O esquemático (RTL) será implementado utilizando a linguagem de descrição de
 -Com incremento, utilizando Declaração Procedural ou Comportamental (always if-else)<br>
 
 O arquivo mais detalhado, com as especificações citadas se encontra em : <br>
+
 [Relatório da Parte 2](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/tree/main/Parte_2)
 
 <hr>
