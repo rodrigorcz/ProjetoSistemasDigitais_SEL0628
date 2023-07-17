@@ -31,7 +31,7 @@ A segunda parte do trabalho consiste no desenvolvimento didático de três conta
 O esquemático (RTL) será implementado utilizando a linguagem de descrição de hardware (HDL) Verilog para implementar os seguintes contadores binários crescentes parametrizáveis de 'width' bits com 'enb', 'rst_s', 'cnt_max' e 'ck':<br> <br>
 -Assíncrono, utilizando o Flip-flop Tipo-D descrito anteriormente, com generate e Rede de Ligações<br>
 -Síncrono, utilizando o Flip-flop Tipo-D descrito anteriormente, com generate e Rede de Ligações<br>
--Com incremento, utilizando Declaração Procedural ou Comportamental (always if-else)<br>
+-Com incremento, utilizando Declaração Procedural ou Comportamental (always if-else)<br><br>
 
 O arquivo mais detalhado, com as especificações citadas se encontra em : <br>
 
@@ -40,11 +40,22 @@ O arquivo mais detalhado, com as especificações citadas se encontra em : <br>
 <hr>
 
 <h1>Parte 3</h1>
+A terceira parte do trabalho basea-se na implementação de um contador digital BCD de três dígitos (de 000 a 999) por meio da linguagem de descrição de hardware (HDL) Verilog, utilizando os componentes os quais foram implementados anteriormente.<br> <br>
+
+O arquivo com mais detalhes a respeito dessa etapa do trabalho se encontra em : <br>
 
 [Relatório da Parte 3](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/tree/main/Parte_3)
 
 <hr>
 
 <h1>Parte 4</h1>
+A quarta e última parte do trabalho resume-se na implementação, na linguagem de descrição de hardware (HDL) Verilog, de uma máquina de estados que tem o objetivo de controlar um conversor analógico para digital ADC (Analog to Digital Converter) do tipo rampa dupla (dual slope), o qual fará uso do contador BCD implementado na etapa anterior para a visualização do valor analógico convertido.<br> <br>
+
+O controlador que será projetado nessa parte do trabalho é composto por uma máquina de estados que gera os sinais de controle, contadores decimais, registradores e conversores BCD para 7 segmentos. Os contadores executam a contagem dos períodos "tx" e "tm", e esses foram desenvolvidos na etapa anterior. Os registradores armazenam o valor da última contagem, permitindo a visualização da última medida nos displays de 7 segmentos. A operação deve ser iniciada com o acionamento da chave "ch_vm", e a máquina de estados deve aguardar o final da contagem, que é o sinal "enb_3=1". Após esse período, "tx", a chave "ch_ref" deve ser acionada, e a máquina tem que esperar a tensão na saída do integrador atingir o valor zero, que é o sinal "Vinit_z=1". Uma vez nesse sinal, o dado dos contadores deve ser transferido para os registradores no próximo ciclo de clock, atualizando os displays com o novo valor da tensão. A operação termina após o acionamento da chave "ch_zr" levando a saída do integrador para zero, assim como a inicialização dos contadores para zero.<br> <br>
+
+Nessa etapa será apresentada a teoria de funcionamento de um ADC de rampa dupla, assim como o código em HDL do controlador e o circuito RTL correspondente, bem como o resultado da simulação.<br> <br>
+
+O arquivo com mais detalhes, como também com as especificações encontra-se em : <br>
+
 
 [Relatório da Parte 4](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/tree/main/Parte_4)
