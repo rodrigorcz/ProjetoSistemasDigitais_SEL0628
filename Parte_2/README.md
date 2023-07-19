@@ -6,7 +6,7 @@
 Inicialmente, foi desenvolvido um diagrama de estados para o contador de 4 bits o qual é aplicado no ciclo que inicia em 0000, para o número 0, e termina em 1001, para o número 9, conforme a seguinte imagem:<br>
 
 <div align ="center">
-    <img src ="img/Diagrama.jpeg" max-width="80%" alt="Diagrama-de-Estado">
+    <img src ="img/Diagrama.jpeg" max-width="40%" alt="Diagrama-de-Estado">
 </div>
 
 <br>
