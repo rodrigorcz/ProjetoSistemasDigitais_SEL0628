@@ -42,7 +42,9 @@ O arquivo mais detalhado, com as especificações citadas se encontra em : <br>
 <hr>
 
 <h1>Parte 3</h1>
-Em terceiro plano, temos a implementação de um contador digital BCD de três dígitos (de 000 a 999) por meio da linguagem de descrição de hardware (HDL) Verilog, utilizando os componentes os quais foram implementados anteriormente.<br> <br>
+Em terceiro plano, temos a implementação de um contador digital BCD de três dígitos (de 000 a 999) por meio da linguagem de descrição de hardware (HDL) Verilog, utilizando os componentes implementados anteriormente. Os registradores utilizados foram construídos de maneira modularizada e são dedicados à funcionalidade prevista na próxima parte do projeto.
+
+<br> <br>
 
 O arquivo com mais detalhes a respeito dessa etapa do trabalho se encontra em : <br>
 
