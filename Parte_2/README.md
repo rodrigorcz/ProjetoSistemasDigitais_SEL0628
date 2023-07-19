@@ -9,18 +9,21 @@ Inicialmente, foi desenvolvido um diagrama de estados para o contador de 4 bits 
     <img src ="img/Diagrama.jpeg" style="max-width: 60%;" alt="Diagrama-de-Estado">
 </div>
 
+<br>
 Em seguida, utilizando flip flop Tipo-D para 4 bits, foi montada um tabela de excitação para a contagem de década: <br><br>
 
 <div align ="center">
     <img src ="img/tabelav.jpeg" style="max-width: 200%;" alt="tabelav">
 </div>
 
+<br>
 A partir dos dados analisados, foi possível a obtenção das expressões booleanas que descrevem o circuito, por meio da utilização de Mapas de Karnaught, conforme: <br><br>
 
 <div align ="center">
     <img src ="img/mapa_k.jpeg" style="max-width: 100%;" alt="mapa-k">
 </div>
 
+<br>
 Em posse das expressões booelanas, foi possível a criação do circuito lógico que descreve o contador de década utilizando flip flops D: <br> <br>
 <div align ="center">
     <img src ="img/Circ3.jpeg" style="max-width: 100%;" alt="Circuito-1">
