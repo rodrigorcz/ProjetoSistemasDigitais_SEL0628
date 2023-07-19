@@ -1,6 +1,8 @@
 <h1>ProjetoSistemasDigitais_SEL0628</h1>
 
-Repositório utilizado para a hospedagem dos arquivos e codigos utilizados no projeto final da disciplina de Sistemas Digitais (SEL0628) cursada no primeiro semestre de 2023.
+Repositório utilizado para a hospedagem dos arquivos e codigos utilizados no projeto final da disciplina de Sistemas Digitais (SEL0628) cursada no primeiro semestre de 2023. <br>
+
+O Projeto foi separado em 4 partes contendo em cada uma os código utilizados nos equematicos (RTL) utilizando a linguagem de descrição de hardware (HDL) Verilog, e um relatório mais detalhado com as informações utilizadas.<br>
 
 <hr>
 
