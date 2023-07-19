@@ -77,17 +77,17 @@ g = (/bit3 /bit1 /T) + (/bit3 bit1 /bit0) + (/bit2 bit1 T) + (/bit3 bit2 /bit1) 
 ```
 
 ---
-### Circuito Lógico
-
-<div align ="center">
-    <img src ="img/Circuit.jpg" style="max-width: 60%;" alt="circuit">
-</div>
-
----
-### Modularização do circuito lógico (DEMUX)
+### Modularização do circuito lógico por declaração procedural
 
 <div align ="center">
     <img src ="img/Modular.jpg" style="max-width: 80%;" alt="modular">
+</div>
+
+---
+### Lógica de funcionamento
+
+<div align ="center">
+    <img src ="img/Circuit.jpg" style="max-width: 60%;" alt="circuit">
 </div>
 
 ---
