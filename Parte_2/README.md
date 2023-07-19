@@ -1,6 +1,8 @@
 # Parte 2
 
- A segunda parte do trabalho vigente consiste no desenvolvimento didático de três contadores compostos pelas estruturas clássicas (síncrona ou assíncrona) de flip-flops tipo D encadeados. Nesse sentido, cada um deve conter um algoritmo único, a saber: implementação modular para contagem síncrona e para assíncrona, implementação unitária com incremento e declaração procedural. <br> 
+A segunda parte do trabalho vigente consiste no desenvolvimento didático de três contadores compostos pelas estruturas clássicas (síncrona ou assíncrona) de flip-flops tipo D encadeados. Nesse sentido, cada um deve conter um algoritmo único, a saber: implementação modular para contagem síncrona e para assíncrona, implementação unitária com incremento e declaração procedural. A seguir, será apresentado a metodologia utilizada para o desenvolvimento de um contador síncrono crescente de década (BCD).<br> 
+
+<hr>
 
 Inicialmente, foi desenvolvido um diagrama de estados para o contador de 4 bits o qual é aplicado no ciclo que inicia em 0000, para o número 0, e termina em 1001, para o número 9, conforme a seguinte imagem:<br>
 
