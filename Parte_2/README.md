@@ -13,7 +13,7 @@ Inicialmente, foi desenvolvido um diagrama de estados para o contador de 4 bits 
 Em seguida, utilizando flip flop Tipo-D para 4 bits, foi montada uma tabela de excitação para a contagem de década: <br><br>
 
 <div align ="center">
-    <img src ="img/tabelav.jpeg" width="80%" alt="tabelav">
+    <img src ="img/tabelav.jpeg" width="70%" alt="tabelav">
 </div>
 
 <br>
