@@ -1,6 +1,6 @@
 # Parte 1
 
-O esquemático (RTL) será implementado utilizando a linguagem de descrição de hardware (HDL) Verilog, com quatro técnicas distintas: Primitivas ou Rede de Ligações, Declarações Concorrentes com Operadores Lógicos, Declarações Concorrentes com Operador Ternário e Declaração Procedural ou Comportamental. <br>
+Utilizando a linguagem de descrição de hardware (HDL) Verilog, o diagrama esquemático (RTL) será implementado com quatro técnicas distintas: Primitivas ou Rede de Ligações, Declarações Concorrentes com Operadores Lógicos, Declarações Concorrentes com Operador Ternário e Declaração Procedural ou Comportamental. <br>
 
 Para a implementação desse decodificador, foi construido a seguinte tabela verdade:
 
