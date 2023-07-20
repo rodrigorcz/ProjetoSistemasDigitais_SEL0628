@@ -4,7 +4,8 @@
  Para alcançar esse objetivo, o projeto é composto por três contadores assíncronos. Cada contador é responsável por uma posição decimal, sendo o primeiro contador o responsável pelos dígitos das centenas, o segundo pelos dígitos das dezenas e o terceiro pelos dígitos das unidades.
 
  Abaixo pode ser visualizado o seguinte circuito lógico do contador projetado: <br><br>
-![image](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/assets/62862399/a1743eeb-9ef5-4764-a21d-09737a0bbf0d)
+![image](https://github.com/RodrigoRCZ/ProjetoSistemasDigitais_SEL0628/assets/62862399/6dd5e138-880f-42f9-9657-64fd9eab45ec)
+
 
  ### Especificações do circuito:
  O contador utiliza um sinal de clock para sincronizar o processo de contagem. A cada pulso do clock, o contador incrementa ou reinicia a contagem, dependendo do valor atual. Além disso, ele posui um sinal de reset que quando acionado, o contador é resetado para o valor inicial. Já o sinal de enable é utilizado para habilitar ou desabilitar o contador.
